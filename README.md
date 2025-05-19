@@ -1,17 +1,15 @@
 # EllePower Consultation Website
 Website project for EllePower Consultation
 
-
 ## Project Overview 
 This project is a collaborative effort to design and develop a fully functional, responsive website for **EllePower Consultation**, a company that supports survivors of intimate partner violence (IPV). The goal is to create an accessible, user-friendly website that reflects the client's vision, values, and services. This includes pages such as Home, About, Podcast, Testimonials, Resources, Contact, and Coaching, along with a dedicated page to educate people about IPV.
-
 
 ## Tools Used
 - **Figma** – UI/UX design
 - **Systeme.io** – Business platform that includes a drag and drop website builder similar to Wordpress.
 
 ## Project Demo Video
-Watch the video demo here: [Video Link](e4cf057fe4c311e7ec5b2f4d29d9c27da9d7eaa2)
+Watch the video demo here: [Video Link](https://youtu.be/0JfcZSBRu74)
 
 ## PowerPoint Presentation
 View the PowerPoint here: [Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/EXQJH_euYZdLtKDo6qBqhdEBxITuV0-7-oTvEVs3Vm4Jsg?e=DUcouq)
