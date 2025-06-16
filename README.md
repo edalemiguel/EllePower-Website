@@ -14,6 +14,8 @@ Watch the video demo on Youtube: [Video Link](https://youtu.be/0JfcZSBRu74)
 ## PowerPoint Presentation
 View the PowerPoint here: [Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/EXQJH_euYZdLtKDo6qBqhdEBxITuV0-7-oTvEVs3Vm4Jsg?e=DUcouq)
 
+Final Powerpoint here: [Final Presentation Link](https://scedu-my.sharepoint.com/:p:/r/personal/edale_miguel_seattlecolleges_edu/_layouts/15/doc2.aspx?sourcedoc=%7B6EDC1BBE-ABB7-47F9-A938-CC62E2B93D53%7D&file=Presentation%207.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1749992933816&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=b253d6f9-af32-4368-ad29-bb442c934885&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=840be930-c9b7-439d-91fe-58dba5512dc7)
+
 ## Figma Design
 View the Figma design here: [Figma Link](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2130-110&p=f&t=NJhp6Y7wkLZRnk6o-0)
 You can view each page on its own by navigating through Pages on the left side.
