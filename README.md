@@ -8,11 +8,11 @@ This project is a collaborative effort to design and develop a fully functional,
 - **Figma** – UI/UX design
 - **Systeme.io** – Business platform that includes a drag and drop website builder similar to Wordpress.
 
-## Project Demo Video
+## Midpoint Progress Demo Video
 Watch the video demo on Youtube: [Video Link](https://youtu.be/0JfcZSBRu74)
 
 ## PowerPoint Presentation
-View the PowerPoint here: [Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/EXQJH_euYZdLtKDo6qBqhdEBxITuV0-7-oTvEVs3Vm4Jsg?e=DUcouq)
+View the Midpoint PowerPoint here: [Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/EXQJH_euYZdLtKDo6qBqhdEBxITuV0-7-oTvEVs3Vm4Jsg?e=DUcouq)
 
 Final Powerpoint here: [Final Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/Eb4b3G63q_lHqTjMYuK5PVMBW2SlJspexTiPDMcEIpl5uQ?e=LV55mR)
 
