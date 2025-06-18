@@ -17,11 +17,5 @@ View the PowerPoint here: [Presentation Link](https://scedu-my.sharepoint.com/:p
 Final Powerpoint here: [Final Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/Eb4b3G63q_lHqTjMYuK5PVMBW2SlJspexTiPDMcEIpl5uQ?e=LV55mR)
 
 ## Figma Design
-View the Figma design here: [Figma Link](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2130-110&p=f&t=NJhp6Y7wkLZRnk6o-0)
+View the Figma design here: [Figma Link](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2303-229&p=f)
 You can view each page on its own by navigating through Pages on the left side.
-
-[Home](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2305-233&t=18fVrRur3Ts7mbB3-0)
-[About](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2305-505&t=18fVrRur3Ts7mbB3-0)
-[Podcast](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2447-30&t=18fVrRur3Ts7mbB3-0)
-[Resources](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2398-176&t=18fVrRur3Ts7mbB3-0)
-[Testimonials](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2453-1424&t=18fVrRur3Ts7mbB3-0)
