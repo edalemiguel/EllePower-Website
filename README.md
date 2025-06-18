@@ -16,6 +16,9 @@ View the Midpoint PowerPoint here: [Presentation Link](https://scedu-my.sharepoi
 
 Final Powerpoint here: [Final Presentation Link](https://scedu-my.sharepoint.com/:p:/g/personal/edale_miguel_seattlecolleges_edu/Eb4b3G63q_lHqTjMYuK5PVMBW2SlJspexTiPDMcEIpl5uQ?e=LV55mR)
 
+## Project Poster
+See the poster here: [Poster PDF](https://github.com/edalemiguel/EllePower-Website/blob/main/Poster.pdf)
+
 ## Figma Design
 View the Figma design here: [Figma Link](https://www.figma.com/design/PmQWrrKSVhwv2RA4eyYw3b/EllePower-Design?node-id=2303-229&p=f)
 You can view each page on its own by navigating through Pages on the left side.
